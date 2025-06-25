@@ -1,0 +1,10 @@
+# Yedek klasörü - çok büyük
+wp-content/ai1wm-backups/
+
+# Eklenti klasörü - çok büyük ve genelde gereksiz
+wp-content/plugins/
+
+# Diğer büyük veya önemsiz dosyalar (isteğe bağlı)
+*.zip
+*.sql
+*.log
